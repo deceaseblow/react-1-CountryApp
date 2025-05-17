@@ -17,11 +17,6 @@ function Navbar({ countryData, setSelectedRegion }) {
             >
               {region}
             </li>
-            {index === 2 && (
-              <li>
-                <IconImage />
-              </li>
-            )}
           </React.Fragment>
         ))}
       </ul>
