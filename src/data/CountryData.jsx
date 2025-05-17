@@ -2001,5 +2001,1403 @@ const countries = [
         "cioc": "BER",
         "independent": false
     },
+     {
+        "name": "Bhutan",
+        "topLevelDomain": [
+            ".bt"
+        ],
+        "alpha2Code": "BT",
+        "alpha3Code": "BTN",
+        "callingCodes": [
+            "975"
+        ],
+        "capital": "Thimphu",
+        "altSpellings": [
+            "BT",
+            "Kingdom of Bhutan"
+        ],
+        "subregion": "Southern Asia",
+        "region": "Asia",
+        "population": 771612,
+        "latlng": [
+            27.5,
+            90.5
+        ],
+        "demonym": "Bhutanese",
+        "area": 38394.0,
+        "gini": 37.4,
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "borders": [
+            "CHN",
+            "IND"
+        ],
+        "nativeName": "ʼbrug-yul",
+        "numericCode": "064",
+        "flags": {
+            "svg": "https://flagcdn.com/bt.svg",
+            "png": "https://flagcdn.com/w320/bt.png"
+        },
+        "currencies": [
+            {
+                "code": "BTN",
+                "name": "Bhutanese ngultrum",
+                "symbol": "Nu."
+            },
+            {
+                "code": "INR",
+                "name": "Indian rupee",
+                "symbol": "₹"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "dz",
+                "iso639_2": "dzo",
+                "name": "Dzongkha",
+                "nativeName": "རྫོང་ཁ"
+            }
+        ],
+        "translations": {
+            "br": "Bhoutan",
+            "pt": "Butão",
+            "nl": "Bhutan",
+            "hr": "Butan",
+            "fa": "بوتان",
+            "de": "Bhutan",
+            "es": "Bután",
+            "fr": "Bhoutan",
+            "ja": "ブータン",
+            "it": "Bhutan",
+            "hu": "Bhután"
+        },
+        "flag": "https://flagcdn.com/bt.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "SAARC",
+                "name": "South Asian Association for Regional Cooperation"
+            }
+        ],
+        "cioc": "BHU",
+        "independent": true
+    },
+    {
+        "name": "Bolivia (Plurinational State of)",
+        "topLevelDomain": [
+            ".bo"
+        ],
+        "alpha2Code": "BO",
+        "alpha3Code": "BOL",
+        "callingCodes": [
+            "591"
+        ],
+        "capital": "Sucre",
+        "altSpellings": [
+            "BO",
+            "Buliwya",
+            "Wuliwya",
+            "Plurinational State of Bolivia",
+            "Estado Plurinacional de Bolivia",
+            "Buliwya Mamallaqta",
+            "Wuliwya Suyu",
+            "Tetã Volívia"
+        ],
+        "subregion": "South America",
+        "region": "Americas",
+        "population": 11673029,
+        "latlng": [
+            -17.0,
+            -65.0
+        ],
+        "demonym": "Bolivian",
+        "area": 1098581.0,
+        "gini": 41.6,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "borders": [
+            "ARG",
+            "BRA",
+            "CHL",
+            "PRY",
+            "PER"
+        ],
+        "nativeName": "Bolivia",
+        "numericCode": "068",
+        "flags": {
+            "svg": "https://flagcdn.com/bo.svg",
+            "png": "https://flagcdn.com/w320/bo.png"
+        },
+        "currencies": [
+            {
+                "code": "BOB",
+                "name": "Bolivian boliviano",
+                "symbol": "Bs."
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "es",
+                "iso639_2": "spa",
+                "name": "Spanish",
+                "nativeName": "Español"
+            },
+            {
+                "iso639_1": "ay",
+                "iso639_2": "aym",
+                "name": "Aymara",
+                "nativeName": "aymar aru"
+            },
+            {
+                "iso639_1": "qu",
+                "iso639_2": "que",
+                "name": "Quechua",
+                "nativeName": "Runa Simi"
+            }
+        ],
+        "translations": {
+            "br": "Bolivia",
+            "pt": "Bolívia",
+            "nl": "Bolivia",
+            "hr": "Bolivija",
+            "fa": "بولیوی",
+            "de": "Bolivien",
+            "es": "Bolivia",
+            "fr": "Bolivie",
+            "ja": "ボリビア多民族国",
+            "it": "Bolivia",
+            "hu": "Bolívia"
+        },
+        "flag": "https://flagcdn.com/bo.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Unión de Naciones Suramericanas",
+                    "União de Nações Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ],
+        "cioc": "BOL",
+        "independent": true
+    },
+    {
+        "name": "Bonaire, Sint Eustatius and Saba",
+        "topLevelDomain": [
+            ".an",
+            ".nl"
+        ],
+        "alpha2Code": "BQ",
+        "alpha3Code": "BES",
+        "callingCodes": [
+            "599"
+        ],
+        "capital": "Kralendijk",
+        "altSpellings": [
+            "BQ",
+            "Boneiru"
+        ],
+        "subregion": "Caribbean",
+        "region": "Americas",
+        "population": 17408,
+        "latlng": [
+            12.15,
+            -68.266667
+        ],
+        "demonym": "Dutch",
+        "area": 294.0,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "nativeName": "Bonaire",
+        "numericCode": "535",
+        "flags": {
+            "svg": "https://flagcdn.com/bq.svg",
+            "png": "https://flagcdn.com/w320/bq.png"
+        },
+        "currencies": [
+            {
+                "code": "USD",
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "nl",
+                "iso639_2": "nld",
+                "name": "Dutch",
+                "nativeName": "Nederlands"
+            }
+        ],
+        "translations": {
+            "br": "Bonaire, Sint Eustatius ha Saba",
+            "pt": "Bonaire",
+            "nl": "Caribisch Nederland",
+            "hr": "Bonaire, Sint Eustatius and Saba",
+            "fa": "بونیر",
+            "de": "Bonaire, Sint Eustatius und Saba",
+            "es": "Bonaire, Sint Eustatius and Saba",
+            "fr": "Bonaire, Saint-Eustache et Saba",
+            "ja": "Bonaire, Sint Eustatius and Saba",
+            "it": "Bonaire, Saint-Eustache e Saba",
+            "hu": "Bonaire"
+        },
+        "flag": "https://flagcdn.com/bq.svg",
+        "independent": true
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "topLevelDomain": [
+            ".ba"
+        ],
+        "alpha2Code": "BA",
+        "alpha3Code": "BIH",
+        "callingCodes": [
+            "387"
+        ],
+        "capital": "Sarajevo",
+        "altSpellings": [
+            "BA",
+            "Bosnia-Herzegovina",
+            "Босна и Херцеговина"
+        ],
+        "subregion": "Southern Europe",
+        "region": "Europe",
+        "population": 3280815,
+        "latlng": [
+            44.0,
+            18.0
+        ],
+        "demonym": "Bosnian, Herzegovinian",
+        "area": 51209.0,
+        "gini": 33.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "HRV",
+            "MNE",
+            "SRB"
+        ],
+        "nativeName": "Bosna i Hercegovina",
+        "numericCode": "070",
+        "flags": {
+            "svg": "https://flagcdn.com/ba.svg",
+            "png": "https://flagcdn.com/w320/ba.png"
+        },
+        "currencies": [
+            {
+                "code": "BAM",
+                "name": "Bosnia and Herzegovina convertible mark",
+                "symbol": "KM"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "bs",
+                "iso639_2": "bos",
+                "name": "Bosnian",
+                "nativeName": "bosanski jezik"
+            },
+            {
+                "iso639_1": "hr",
+                "iso639_2": "hrv",
+                "name": "Croatian",
+                "nativeName": "hrvatski jezik"
+            },
+            {
+                "iso639_1": "sr",
+                "iso639_2": "srp",
+                "name": "Serbian",
+                "nativeName": "српски језик"
+            }
+        ],
+        "translations": {
+            "br": "Bosnia-ha-Herzegovina",
+            "pt": "Bósnia e Herzegovina",
+            "nl": "Bosnië en Herzegovina",
+            "hr": "Bosna i Hercegovina",
+            "fa": "بوسنی و هرزگوین",
+            "de": "Bosnien und Herzegowina",
+            "es": "Bosnia y Herzegovina",
+            "fr": "Bosnie-Herzégovine",
+            "ja": "ボスニア・ヘルツェゴビナ",
+            "it": "Bosnia ed Erzegovina",
+            "hu": "Bosznia-Hercegovina"
+        },
+        "flag": "https://flagcdn.com/ba.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "cioc": "BIH",
+        "independent": true
+    },
+    {
+        "name": "Botswana",
+        "topLevelDomain": [
+            ".bw"
+        ],
+        "alpha2Code": "BW",
+        "alpha3Code": "BWA",
+        "callingCodes": [
+            "267"
+        ],
+        "capital": "Gaborone",
+        "altSpellings": [
+            "BW",
+            "Republic of Botswana",
+            "Lefatshe la Botswana"
+        ],
+        "subregion": "Southern Africa",
+        "region": "Africa",
+        "population": 2351625,
+        "latlng": [
+            -22.0,
+            24.0
+        ],
+        "demonym": "Motswana",
+        "area": 582000.0,
+        "gini": 53.3,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "NAM",
+            "ZAF",
+            "ZMB",
+            "ZWE"
+        ],
+        "nativeName": "Botswana",
+        "numericCode": "072",
+        "flags": {
+            "svg": "https://flagcdn.com/bw.svg",
+            "png": "https://flagcdn.com/w320/bw.png"
+        },
+        "currencies": [
+            {
+                "code": "BWP",
+                "name": "Botswana pula",
+                "symbol": "P"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "tn",
+                "iso639_2": "tsn",
+                "name": "Tswana",
+                "nativeName": "Setswana"
+            }
+        ],
+        "translations": {
+            "br": "Botswana",
+            "pt": "Botsuana",
+            "nl": "Botswana",
+            "hr": "Bocvana",
+            "fa": "بوتسوانا",
+            "de": "Botswana",
+            "es": "Botswana",
+            "fr": "Botswana",
+            "ja": "ボツワナ",
+            "it": "Botswana",
+            "hu": "Botswana"
+        },
+        "flag": "https://flagcdn.com/bw.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "BOT",
+        "independent": true
+    },
+    {
+        "name": "Bouvet Island",
+        "topLevelDomain": [
+            ".bv"
+        ],
+        "alpha2Code": "BV",
+        "alpha3Code": "BVT",
+        "callingCodes": [
+            "47"
+        ],
+        "altSpellings": [
+            "BV",
+            "Bouvetøya",
+            "Bouvet-øya"
+        ],
+        "subregion": "South Antarctic Ocean",
+        "region": "Antarctic Ocean",
+        "population": 0,
+        "latlng": [
+            -54.43333333,
+            3.4
+        ],
+        "demonym": "Norwegian",
+        "area": 49.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "nativeName": "Bouvetøya",
+        "numericCode": "074",
+        "flags": {
+            "svg": "https://flagcdn.com/bv.svg",
+            "png": "https://flagcdn.com/w320/bv.png"
+        },
+        "currencies": [
+            {
+                "code": "NOK",
+                "name": "Norwegian krone",
+                "symbol": "kr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "no",
+                "iso639_2": "nor",
+                "name": "Norwegian",
+                "nativeName": "Norsk"
+            },
+            {
+                "iso639_1": "nb",
+                "iso639_2": "nob",
+                "name": "Norwegian Bokmål",
+                "nativeName": "Norsk bokmål"
+            },
+            {
+                "iso639_1": "nn",
+                "iso639_2": "nno",
+                "name": "Norwegian Nynorsk",
+                "nativeName": "Norsk nynorsk"
+            }
+        ],
+        "translations": {
+            "br": "Enez Bouvet",
+            "pt": "Ilha Bouvet",
+            "nl": "Bouveteiland",
+            "hr": "Otok Bouvet",
+            "fa": "جزیره بووه",
+            "de": "Bouvetinsel",
+            "es": "Isla Bouvet",
+            "fr": "Île Bouvet",
+            "ja": "ブーベ島",
+            "it": "Isola Bouvet",
+            "hu": "Bouvet-sziget"
+        },
+        "flag": "https://flagcdn.com/bv.svg",
+        "independent": false
+    },
+    {
+        "name": "Brazil",
+        "topLevelDomain": [
+            ".br"
+        ],
+        "alpha2Code": "BR",
+        "alpha3Code": "BRA",
+        "callingCodes": [
+            "55"
+        ],
+        "capital": "Brasília",
+        "altSpellings": [
+            "BR",
+            "Brasil",
+            "Federative Republic of Brazil",
+            "República Federativa do Brasil"
+        ],
+        "subregion": "South America",
+        "region": "Americas",
+        "population": 212559409,
+        "latlng": [
+            -10.0,
+            -55.0
+        ],
+        "demonym": "Brazilian",
+        "area": 8515767.0,
+        "gini": 53.4,
+        "timezones": [
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00"
+        ],
+        "borders": [
+            "ARG",
+            "BOL",
+            "COL",
+            "FRA",
+            "GUF",
+            "GUY",
+            "PRY",
+            "PER",
+            "SUR",
+            "URY",
+            "VEN"
+        ],
+        "nativeName": "Brasil",
+        "numericCode": "076",
+        "flags": {
+            "svg": "https://flagcdn.com/br.svg",
+            "png": "https://flagcdn.com/w320/br.png"
+        },
+        "currencies": [
+            {
+                "code": "BRL",
+                "name": "Brazilian real",
+                "symbol": "R$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "pt",
+                "iso639_2": "por",
+                "name": "Portuguese",
+                "nativeName": "Português"
+            }
+        ],
+        "translations": {
+            "br": "Brazil",
+            "pt": "Brasil",
+            "nl": "Brazilië",
+            "hr": "Brazil",
+            "fa": "برزیل",
+            "de": "Brasilien",
+            "es": "Brasil",
+            "fr": "Brésil",
+            "ja": "ブラジル",
+            "it": "Brasile",
+            "hu": "Brazília"
+        },
+        "flag": "https://flagcdn.com/br.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "USAN",
+                "name": "Union of South American Nations",
+                "otherAcronyms": [
+                    "UNASUR",
+                    "UNASUL",
+                    "UZAN"
+                ],
+                "otherNames": [
+                    "Unión de Naciones Suramericanas",
+                    "União de Nações Sul-Americanas",
+                    "Unie van Zuid-Amerikaanse Naties",
+                    "South American Union"
+                ]
+            }
+        ],
+        "cioc": "BRA",
+        "independent": true
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "topLevelDomain": [
+            ".io"
+        ],
+        "alpha2Code": "IO",
+        "alpha3Code": "IOT",
+        "callingCodes": [
+            "246"
+        ],
+        "capital": "Diego Garcia",
+        "altSpellings": [
+            "IO"
+        ],
+        "subregion": "Eastern Africa",
+        "region": "Africa",
+        "population": 3000,
+        "latlng": [
+            -6.0,
+            71.5
+        ],
+        "demonym": "Indian",
+        "area": 60.0,
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "nativeName": "British Indian Ocean Territory",
+        "numericCode": "086",
+        "flags": {
+            "svg": "https://flagcdn.com/io.svg",
+            "png": "https://flagcdn.com/w320/io.png"
+        },
+        "currencies": [
+            {
+                "code": "USD",
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "br": "Tiriad breizhveurat Meurvor Indez",
+            "pt": "Território Britânico do Oceano Índico",
+            "nl": "Britse Gebieden in de Indische Oceaan",
+            "hr": "Britanski Indijskooceanski teritorij",
+            "fa": "قلمرو بریتانیا در اقیانوس هند",
+            "de": "Britisches Territorium im Indischen Ozean",
+            "es": "Territorio Británico del Océano Índico",
+            "fr": "Territoire britannique de l'océan Indien",
+            "ja": "イギリス領インド洋地域",
+            "it": "Territorio britannico dell'oceano indiano",
+            "hu": "Brit Indiai-óceáni Terület"
+        },
+        "flag": "https://flagcdn.com/io.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "independent": true
+    },
+    {
+        "name": "United States Minor Outlying Islands",
+        "topLevelDomain": [
+            ".us"
+        ],
+        "alpha2Code": "UM",
+        "alpha3Code": "UMI",
+        "callingCodes": [
+            "246"
+        ],
+        "altSpellings": [
+            "UM"
+        ],
+        "subregion": "Northern America",
+        "region": "Americas",
+        "population": 300,
+        "demonym": "American",
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00"
+        ],
+        "nativeName": "United States Minor Outlying Islands",
+        "numericCode": "581",
+        "flags": {
+            "svg": "https://flagcdn.com/um.svg",
+            "png": "https://flagcdn.com/w320/um.png"
+        },
+        "currencies": [
+            {
+                "code": "GBP",
+                "name": "British pound",
+                "symbol": "£"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "br": "Inizi Minor A-bell Stadoù-Unanet",
+            "pt": "Ilhas Menores Distantes dos Estados Unidos",
+            "nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+            "hr": "Mali udaljeni otoci SAD-a",
+            "fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
+            "de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+            "es": "Islas Ultramarinas Menores de Estados Unidos",
+            "fr": "Îles mineures éloignées des États-Unis",
+            "ja": "合衆国領有小離島",
+            "it": "Isole minori esterne degli Stati Uniti d'America",
+            "hu": "Amerikai Egyesült Államok lakatlan külbirtokai"
+        },
+        "flag": "https://flagcdn.com/um.svg",
+        "independent": false
+    },
+    {
+        "name": "Virgin Islands (British)",
+        "topLevelDomain": [
+            ".vg"
+        ],
+        "alpha2Code": "VG",
+        "alpha3Code": "VGB",
+        "callingCodes": [
+            "1"
+        ],
+        "capital": "Road Town",
+        "altSpellings": [
+            "VG"
+        ],
+        "subregion": "Caribbean",
+        "region": "Americas",
+        "population": 30237,
+        "latlng": [
+            18.431383,
+            -64.62305
+        ],
+        "demonym": "Virgin Islander",
+        "area": 151.0,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "nativeName": "British Virgin Islands",
+        "numericCode": "092",
+        "flags": {
+            "svg": "https://flagcdn.com/vg.svg",
+            "png": "https://flagcdn.com/w320/vg.png"
+        },
+        "currencies": [
+            {
+                "code": "USD",
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "br": "Inizi Gwerc'h Breizhveurat",
+            "pt": "Ilhas Virgens Britânicas",
+            "nl": "Britse Maagdeneilanden",
+            "hr": "Britanski Djevičanski Otoci",
+            "fa": "جزایر ویرجین بریتانیا",
+            "de": "Britische Jungferninseln",
+            "es": "Islas Vírgenes del Reino Unido",
+            "fr": "Îles Vierges britanniques",
+            "ja": "イギリス領ヴァージン諸島",
+            "it": "Isole Vergini Britanniche",
+            "hu": "Brit Virgin-szigetek"
+        },
+        "flag": "https://flagcdn.com/vg.svg",
+        "cioc": "IVB",
+        "independent": false
+    },
+    {
+        "name": "Virgin Islands (U.S.)",
+        "topLevelDomain": [
+            ".vi"
+        ],
+        "alpha2Code": "VI",
+        "alpha3Code": "VIR",
+        "callingCodes": [
+            "1 340"
+        ],
+        "capital": "Charlotte Amalie",
+        "altSpellings": [
+            "VI",
+            "USVI",
+            "American Virgin Islands",
+            "U.S. Virgin Islands"
+        ],
+        "subregion": "Caribbean",
+        "region": "Americas",
+        "population": 106290,
+        "latlng": [
+            18.34,
+            -64.93
+        ],
+        "demonym": "Virgin Islander",
+        "area": 346.36,
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "nativeName": "Virgin Islands of the United States",
+        "numericCode": "850",
+        "flags": {
+            "svg": "https://flagcdn.com/vi.svg",
+            "png": "https://flagcdn.com/w320/vi.png"
+        },
+        "currencies": [
+            {
+                "code": "USD",
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            }
+        ],
+        "translations": {
+            "br": "Inizi Gwerc'h ar Stadoù-Unanet",
+            "pt": "Ilhas Virgens Americanas",
+            "nl": "Verenigde Staten Maagdeneilanden",
+            "hr": "Virgin Islands (U.S.)",
+            "fa": "جزایر ویرجین آمریکا",
+            "de": "Amerikanische Jungferninseln",
+            "es": "Islas Vírgenes de los Estados Unidos",
+            "fr": "Îles Vierges des États-Unis",
+            "ja": "アメリカ領ヴァージン諸島",
+            "it": "Isole Vergini americane",
+            "hu": "Amerikai Virgin-szigetek"
+        },
+        "flag": "https://flagcdn.com/vi.svg",
+        "cioc": "ISV",
+        "independent": false
+    },
+    {
+        "name": "Brunei Darussalam",
+        "topLevelDomain": [
+            ".bn"
+        ],
+        "alpha2Code": "BN",
+        "alpha3Code": "BRN",
+        "callingCodes": [
+            "673"
+        ],
+        "capital": "Bandar Seri Begawan",
+        "altSpellings": [
+            "BN",
+            "Nation of Brunei",
+            " the Abode of Peace"
+        ],
+        "subregion": "South-Eastern Asia",
+        "region": "Asia",
+        "population": 437483,
+        "latlng": [
+            4.5,
+            114.66666666
+        ],
+        "demonym": "Bruneian",
+        "area": 5765.0,
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "borders": [
+            "MYS"
+        ],
+        "nativeName": "Negara Brunei Darussalam",
+        "numericCode": "096",
+        "flags": {
+            "svg": "https://flagcdn.com/bn.svg",
+            "png": "https://flagcdn.com/w320/bn.png"
+        },
+        "currencies": [
+            {
+                "code": "BND",
+                "name": "Brunei dollar",
+                "symbol": "$"
+            },
+            {
+                "code": "SGD",
+                "name": "Singapore dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ms",
+                "iso639_2": "msa",
+                "name": "Malay",
+                "nativeName": "bahasa Melayu"
+            }
+        ],
+        "translations": {
+            "br": "Brunei",
+            "pt": "Brunei",
+            "nl": "Brunei",
+            "hr": "Brunej",
+            "fa": "برونئی",
+            "de": "Brunei",
+            "es": "Brunei",
+            "fr": "Brunei",
+            "ja": "ブルネイ・ダルサラーム",
+            "it": "Brunei",
+            "hu": "Brunei"
+        },
+        "flag": "https://flagcdn.com/bn.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ],
+        "cioc": "BRU",
+        "independent": true
+    },
+    {
+        "name": "Bulgaria",
+        "topLevelDomain": [
+            ".bg"
+        ],
+        "alpha2Code": "BG",
+        "alpha3Code": "BGR",
+        "callingCodes": [
+            "359"
+        ],
+        "capital": "Sofia",
+        "altSpellings": [
+            "BG",
+            "Republic of Bulgaria",
+            "Република България"
+        ],
+        "subregion": "Eastern Europe",
+        "region": "Europe",
+        "population": 6927288,
+        "latlng": [
+            43.0,
+            25.0
+        ],
+        "demonym": "Bulgarian",
+        "area": 110879.0,
+        "gini": 41.3,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "GRC",
+            "MKD",
+            "ROU",
+            "SRB",
+            "TUR"
+        ],
+        "nativeName": "България",
+        "numericCode": "100",
+        "flags": {
+            "svg": "https://flagcdn.com/bg.svg",
+            "png": "https://flagcdn.com/w320/bg.png"
+        },
+        "currencies": [
+            {
+                "code": "BGN",
+                "name": "Bulgarian lev",
+                "symbol": "лв"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "bg",
+                "iso639_2": "bul",
+                "name": "Bulgarian",
+                "nativeName": "български език"
+            }
+        ],
+        "translations": {
+            "br": "Bulgaria",
+            "pt": "Bulgária",
+            "nl": "Bulgarije",
+            "hr": "Bugarska",
+            "fa": "بلغارستان",
+            "de": "Bulgarien",
+            "es": "Bulgaria",
+            "fr": "Bulgarie",
+            "ja": "ブルガリア",
+            "it": "Bulgaria",
+            "hu": "Bulgária"
+        },
+        "flag": "https://flagcdn.com/bg.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "EU",
+                "name": "European Union"
+            }
+        ],
+        "cioc": "BUL",
+        "independent": true
+    },
+    {
+        "name": "Burkina Faso",
+        "topLevelDomain": [
+            ".bf"
+        ],
+        "alpha2Code": "BF",
+        "alpha3Code": "BFA",
+        "callingCodes": [
+            "226"
+        ],
+        "capital": "Ouagadougou",
+        "altSpellings": [
+            "BF"
+        ],
+        "subregion": "Western Africa",
+        "region": "Africa",
+        "population": 20903278,
+        "latlng": [
+            13.0,
+            -2.0
+        ],
+        "demonym": "Burkinabe",
+        "area": 272967.0,
+        "gini": 35.3,
+        "timezones": [
+            "UTC"
+        ],
+        "borders": [
+            "BEN",
+            "CIV",
+            "GHA",
+            "MLI",
+            "NER",
+            "TGO"
+        ],
+        "nativeName": "Burkina Faso",
+        "numericCode": "854",
+        "flags": {
+            "svg": "https://flagcdn.com/bf.svg",
+            "png": "https://flagcdn.com/w320/bf.png"
+        },
+        "currencies": [
+            {
+                "code": "XOF",
+                "name": "West African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "ff",
+                "iso639_2": "ful",
+                "name": "Fula",
+                "nativeName": "Fulfulde"
+            }
+        ],
+        "translations": {
+            "br": "Burkina Faso",
+            "pt": "Burquina Faso",
+            "nl": "Burkina Faso",
+            "hr": "Burkina Faso",
+            "fa": "بورکینافاسو",
+            "de": "Burkina Faso",
+            "es": "Burkina Faso",
+            "fr": "Burkina Faso",
+            "ja": "ブルキナファソ",
+            "it": "Burkina Faso",
+            "hu": "Burkina Faso"
+        },
+        "flag": "https://flagcdn.com/bf.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "BUR",
+        "independent": true
+    },
+    {
+        "name": "Burundi",
+        "topLevelDomain": [
+            ".bi"
+        ],
+        "alpha2Code": "BI",
+        "alpha3Code": "BDI",
+        "callingCodes": [
+            "257"
+        ],
+        "capital": "Gitega",
+        "altSpellings": [
+            "BI",
+            "Republic of Burundi",
+            "Republika y'Uburundi",
+            "République du Burundi"
+        ],
+        "subregion": "Eastern Africa",
+        "region": "Africa",
+        "population": 11890781,
+        "latlng": [
+            -3.5,
+            30.0
+        ],
+        "demonym": "Burundian",
+        "area": 27834.0,
+        "gini": 38.6,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "COD",
+            "RWA",
+            "TZA"
+        ],
+        "nativeName": "Burundi",
+        "numericCode": "108",
+        "flags": {
+            "svg": "https://flagcdn.com/bi.svg",
+            "png": "https://flagcdn.com/w320/bi.png"
+        },
+        "currencies": [
+            {
+                "code": "BIF",
+                "name": "Burundian franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            },
+            {
+                "iso639_1": "rn",
+                "iso639_2": "run",
+                "name": "Kirundi",
+                "nativeName": "Ikirundi"
+            }
+        ],
+        "translations": {
+            "br": "Burundi",
+            "pt": "Burúndi",
+            "nl": "Burundi",
+            "hr": "Burundi",
+            "fa": "بوروندی",
+            "de": "Burundi",
+            "es": "Burundi",
+            "fr": "Burundi",
+            "ja": "ブルンジ",
+            "it": "Burundi",
+            "hu": "Burundi"
+        },
+        "flag": "https://flagcdn.com/bi.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "BDI",
+        "independent": true
+    },
+    {
+        "name": "Cambodia",
+        "topLevelDomain": [
+            ".kh"
+        ],
+        "alpha2Code": "KH",
+        "alpha3Code": "KHM",
+        "callingCodes": [
+            "855"
+        ],
+        "capital": "Phnom Penh",
+        "altSpellings": [
+            "KH",
+            "Kingdom of Cambodia"
+        ],
+        "subregion": "South-Eastern Asia",
+        "region": "Asia",
+        "population": 16718971,
+        "latlng": [
+            13.0,
+            105.0
+        ],
+        "demonym": "Cambodian",
+        "area": 181035.0,
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "borders": [
+            "LAO",
+            "THA",
+            "VNM"
+        ],
+        "nativeName": "Kâmpŭchéa",
+        "numericCode": "116",
+        "flags": {
+            "svg": "https://flagcdn.com/kh.svg",
+            "png": "https://flagcdn.com/w320/kh.png"
+        },
+        "currencies": [
+            {
+                "code": "KHR",
+                "name": "Cambodian riel",
+                "symbol": "៛"
+            },
+            {
+                "code": "USD",
+                "name": "United States dollar",
+                "symbol": "$"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "km",
+                "iso639_2": "khm",
+                "name": "Khmer",
+                "nativeName": "ខ្មែរ"
+            }
+        ],
+        "translations": {
+            "br": "Kambodja",
+            "pt": "Camboja",
+            "nl": "Cambodja",
+            "hr": "Kambodža",
+            "fa": "کامبوج",
+            "de": "Kambodscha",
+            "es": "Camboya",
+            "fr": "Cambodge",
+            "ja": "カンボジア",
+            "it": "Cambogia",
+            "hu": "Kambodzsa"
+        },
+        "flag": "https://flagcdn.com/kh.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "ASEAN",
+                "name": "Association of Southeast Asian Nations"
+            }
+        ],
+        "cioc": "CAM",
+        "independent": true
+    },
+    {
+        "name": "Cameroon",
+        "topLevelDomain": [
+            ".cm"
+        ],
+        "alpha2Code": "CM",
+        "alpha3Code": "CMR",
+        "callingCodes": [
+            "237"
+        ],
+        "capital": "Yaoundé",
+        "altSpellings": [
+            "CM",
+            "Republic of Cameroon",
+            "République du Cameroun"
+        ],
+        "subregion": "Middle Africa",
+        "region": "Africa",
+        "population": 26545864,
+        "latlng": [
+            6.0,
+            12.0
+        ],
+        "demonym": "Cameroonian",
+        "area": 475442.0,
+        "gini": 46.6,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "CAF",
+            "TCD",
+            "COG",
+            "GNQ",
+            "GAB",
+            "NGA"
+        ],
+        "nativeName": "Cameroon",
+        "numericCode": "120",
+        "flags": {
+            "svg": "https://flagcdn.com/cm.svg",
+            "png": "https://flagcdn.com/w320/cm.png"
+        },
+        "currencies": [
+            {
+                "code": "XAF",
+                "name": "Central African CFA franc",
+                "symbol": "Fr"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "en",
+                "iso639_2": "eng",
+                "name": "English",
+                "nativeName": "English"
+            },
+            {
+                "iso639_1": "fr",
+                "iso639_2": "fra",
+                "name": "French",
+                "nativeName": "français"
+            }
+        ],
+        "translations": {
+            "br": "Kameroun",
+            "pt": "Camarões",
+            "nl": "Kameroen",
+            "hr": "Kamerun",
+            "fa": "کامرون",
+            "de": "Kamerun",
+            "es": "Camerún",
+            "fr": "Cameroun",
+            "ja": "カメルーン",
+            "it": "Camerun",
+            "hu": "Kamerun"
+        },
+        "flag": "https://flagcdn.com/cm.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "AU",
+                "name": "African Union",
+                "otherNames": [
+                    "الاتحاد الأفريقي",
+                    "Union africaine",
+                    "União Africana",
+                    "Unión Africana",
+                    "Umoja wa Afrika"
+                ]
+            }
+        ],
+        "cioc": "CMR",
+        "independent": true
+    },
 ]
 export default countries;

@@ -1,5 +1,5 @@
 import React from 'react';
-import iconSrc from '../assets/icon.png'; // now safe, no conflict
+import iconSrc from '../assets/images.png'; // now safe, no conflict
 
 function IconImage() {
   return (
